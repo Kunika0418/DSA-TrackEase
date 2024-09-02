@@ -5,8 +5,14 @@ DSA-TrackEase is a frontend project developed using HTML, CSS, JavaScript.
 
 ## Description
 
-It isa DSA Tracker, which is a comprehensive collection of 450 popular DSA questions designed to improve problem
-solving skills. The project focuses on providing a user-friendly interface with features to help users organize their DSA journey and track their progress.
+DSA Tracker is a user-friendly platform designed to help you tackle 450 essential Data Structures and Algorithms (DSA) questions. It offers a clean interface for organizing your study, tracking your progress with a built-in counter, and staying motivated.
+
+Key Features:
+Progress Tracker: Monitor how many questions you've completed.
+Bookmarking: Quickly save and revisit important problems.
+Direct Links: Access coding platform questions with a single click.
+Night Mode: Switch to a comfortable night mode for late study sessions.
+
 
 ## Technologies Used
 
@@ -21,21 +27,10 @@ Navigate to the project directory with cd DSA-TrackEase.
 Install the necessary dependencies by running npm install in your terminal.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/d529c27b-7b63-4d4d-897c-3f4576e648a1)
 
+![image](https://github.com/user-attachments/assets/009c2056-6c3d-413c-9b42-ac125181dec5)
 
-blogMate is a simple, elegant, and responsive blogging platform designed for personal use or small teams. It allows users to create, edit, and delete blog posts with ease.
-
-## Technologies Used
-
-HTML
-CSS
-
-## Installation
-
-Clone the repository: https://github.com/Kunika0418/BlogMate
-Open index.html in your web browser.
-Now, go live.
-
-## Screenshots
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/b474276a-b80a-418d-8a22-a7c7131e2cd9">
+
 
