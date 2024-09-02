@@ -7,11 +7,11 @@ DSA-TrackEase is a frontend project developed using HTML, CSS, JavaScript.
 
 DSA Tracker is a user-friendly platform designed to help you tackle 450 essential Data Structures and Algorithms (DSA) questions. It offers a clean interface for organizing your study, tracking your progress with a built-in counter, and staying motivated.
 
-<b>Key Features:<b><br>
-<b>Progress Tracker<b>: Monitor how many questions you've completed.<br>
-<b>Bookmarking<b>: Quickly save and revisit important problems.<br>
-<b>Direct Links<b>: Access coding platform questions with a single click.<br>
-<b>Night Mode<b>: Switch to a comfortable night mode for late study sessions.<br>
+**Key Features:**<br>
+**Progress Tracker**: Monitor how many questions you've completed.<br>
+**Bookmarking**: Quickly save and revisit important problems.<br>
+**Direct Links**: Access coding platform questions with a single click.<br>
+**Night Mode**: Switch to a comfortable night mode for late study sessions.<br>
 
 
 ## Technologies Used
